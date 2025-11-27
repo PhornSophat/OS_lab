@@ -1,0 +1,1000 @@
+ 1108  ls
+ 1109  node varible.js
+ 1110  shutdown now
+ 1111  cd Documents/NodeJS_tutorial/Day1/
+ 1112  ls
+ 1113  ex01.js
+ 1114  node ex01.js 
+ 1115  node ex02.js 
+ 1116  node ex02.js hello world
+ 1117  node ex02.js
+ 1118  3
+ 1119  node ex02.js
+ 1120  node ex03.js
+ 1121  node ex04.js
+ 1122  node ex03.js
+ 1123  node ex04.js
+ 1124  clear
+ 1125  shutdown now
+ 1126  cd Documents/NodeJS_tutorial/Day02
+ 1127  cd Documents/NodeJS_tutorial/Day02/
+ 1128  cd Documents/NodeJS_tutorial/Day2/
+ 1129  node ex01.js 
+ 1130  clear
+ 1131  node ex01.js 
+ 1132  node ex02.js 
+ 1133  touch ex03.js
+ 1134  ls
+ 1135  node ex03.js 
+ 1136  touch ex04.js
+ 1137  ls
+ 1138  node ex04.js
+ 1139  cd ..
+ 1140  cd Day3
+ 1141  node ex01.js 
+ 1142  node ex02.js 
+ 1143  cd Documents/NodeJS_tutorial/Day03
+ 1144  cd Documents/NodeJS_tutorial/Day3
+ 1145  node ex03.js
+ 1146  node ex02.js
+ 1147  cd Documents/NodeJS_tutorial/Day3
+ 1148  node ex02.js
+ 1149  clear
+ 1150  node ex02.js
+ 1151  cd Documents/NodeJS_tutorial/Day3
+ 1152  node ex02.js
+ 1153  9
+ 1154  90
+ 1155  node ex02.js
+ 1156  touch ex04.js
+ 1157  node ex04.js
+ 1158  node ex03.js
+ 1159  shutdown now
+ 1160  cd Documents/NodeJS_tutorial/Day3
+ 1161  ls
+ 1162  node ex04.js
+ 1163  shutdown now
+ 1164  cd Documents/NodeJS_tutorial/
+ 1165  ls
+ 1166  touch promise.js
+ 1167  code .
+ 1168  node promise.js
+ 1169  clear
+ 1170  shutdown now
+ 1171  cd Documents/NodeJS_tutorial/
+ 1172  ls
+ 1173  mkdir Day4
+ 1174  ls
+ 1175  cd Day4
+ 1176  touch ex01.js
+ 1177  code .
+ 1178  node ex01.js 
+ 1179  node ex01.v2.js 
+ 1180  node ex02.js 
+ 1181  clear
+ 1182  shutdown now
+ 1183  cd ..
+ 1184  mkdir telegramBot
+ 1185  cd telegramBot/
+ 1186  code .
+ 1187  source /home/sophat-phorn/.local/share/virtualenvs/myprojectDjango-Qyj0JeeZ/bin/activate
+ 1188  /home/sophat-phorn/.local/share/virtualenvs/myprojectDjango-Qyj0JeeZ/bin/python /home/sophat-phorn/Documents/telegramBot/main.py
+ 1189  clear
+ 1190  pip install python-telegram-bot
+ 1191  clear
+ 1192  /home/sophat-phorn/.local/share/virtualenvs/myprojectDjango-Qyj0JeeZ/bin/python /home/sophat-phorn/Documents/telegramBot/main.py
+ 1193  clear
+ 1194  /home/sophat-phorn/.local/share/virtualenvs/myprojectDjango-Qyj0JeeZ/bin/python /home/sophat-phorn/Documents/telegramBot/main.py
+ 1195  clear
+ 1196  /home/sophat-phorn/.local/share/virtualenvs/myprojectDjango-Qyj0JeeZ/bin/python /home/sophat-phorn/Documents/telegramBot/main.py
+ 1197  clear
+ 1198  /home/sophat-phorn/.local/share/virtualenvs/myprojectDjango-Qyj0JeeZ/bin/python /home/sophat-phorn/Documents/telegramBot/main.py
+ 1199  clear
+ 1200  /home/sophat-phorn/.local/share/virtualenvs/myprojectDjango-Qyj0JeeZ/bin/python /home/sophat-phorn/Documents/telegramBot/main.py
+ 1201  clear
+ 1202  /home/sophat-phorn/.local/share/virtualenvs/myprojectDjango-Qyj0JeeZ/bin/python /home/sophat-phorn/Documents/telegramBot/main.py
+ 1203  clear
+ 1204  /home/sophat-phorn/.local/share/virtualenvs/myprojectDjango-Qyj0JeeZ/bin/python /home/sophat-phorn/Documents/telegramBot/main.py
+ 1205  clear
+ 1206  /home/sophat-phorn/.local/share/virtualenvs/myprojectDjango-Qyj0JeeZ/bin/python /home/sophat-phorn/Documents/telegramBot/main.py
+ 1207  clear
+ 1208  /home/sophat-phorn/.local/share/virtualenvs/myprojectDjango-Qyj0JeeZ/bin/python /home/sophat-phorn/Documents/telegramBot/main.py
+ 1209  clear
+ 1210  /home/sophat-phorn/.local/share/virtualenvs/myprojectDjango-Qyj0JeeZ/bin/python /home/sophat-phorn/Documents/telegramBot/main.py
+ 1211  clea
+ 1212  clear
+ 1213  /home/sophat-phorn/.local/share/virtualenvs/myprojectDjango-Qyj0JeeZ/bin/python /home/sophat-phorn/Documents/telegramBot/main.py
+ 1214  clear
+ 1215  shutdown now
+ 1216  node ex03.js
+ 1217  clear
+ 1218  node ex04.js
+ 1219  cd ..
+ 1220  mkdir Day5
+ 1221  cd Day5
+ 1222  touch ex01.js
+ 1223  code .
+ 1224  touch asynAwait.js
+ 1225  node asynAwait.js 
+ 1226  cd 
+ 1227  cd Documents/NodeJS_tutorial/
+ 1228  code .
+ 1229  cd Documents/Nod
+ 1230  cd Documents/NodeJS_tutorial/Day4
+ 1231  code .
+ 1232  shutdown now
+ 1233  ssh-keygen -t ed25519 -C "sophathphorn04@gmail.com"
+ 1234  eval "$(ssh-agent -s)"
+ 1235  ssh-add ~/.ssh/id_ed25519
+ 1236  cat ~/.ssh/id_ed25519.pub
+ 1237  ssh -T git@github.com
+ 1238  pbcopy < ~/.ssh/id_rsa_github.pub
+ 1239  ssh-add -l
+ 1240  pbcopy < ~/.ssh/id_rsa_github.pub
+ 1241  pbcopy < ~/.ssh/id_github.pub
+ 1242  ssh-keygen -t rsa -b 4096 -C "sophathphorn04@gmail.com"
+ 1243  eval "$(ssh-agent -s)"
+ 1244  ~/.ssh/id_rsa
+ 1245  ssh-add ~/.ssh/id_rsa
+ 1246  cat ~/.ssh/ id_rsa.pub
+ 1247  cat ~/.ssh/id_rsa.pub
+ 1248  ls -l ~/.ssh
+ 1249  ssh -T git@github.com
+ 1250  pbcopy < ~/.ssh/id_rsa_github.pub
+ 1251  xclip -sel clip < ~/.ssh/id_rsa.pub
+ 1252  clear
+ 1253  shutdown now
+ 1254  history
+ 1255  ssh-keygen -t rsa -b 4096 -C "sophathphorn04@gmail.com"
+ 1256  eval "$(ssh-agent -s)"
+ 1257  cat ~/.ssh/id_rsa2.pub
+ 1258  ls -l ~/.ssh
+ 1259  ssh -T git@github.com
+ 1260  code .
+ 1261  uname -a
+ 1262  sudo apt update
+ 1263  sudo apt upgrade
+ 1264  hostname
+ 1265  shutdown now
+ 1266  cd Day5
+ 1267  node ex01.js 
+ 1268  touch ex02.js
+ 1269  node ex02.js
+ 1270  clear
+ 1271  node test.js
+ 1272  cd ..
+ 1273  mkdir auth-project
+ 1274  cd auth-project/
+ 1275  code .
+ 1276  node -v
+ 1277  npm -v
+ 1278  history
+ 1279  npm init
+ 1280  npm i express bcryptjs cookie-parser cor helmet joi jsonwebtoken mongoose nodemailer
+ 1281  npm run dev
+ 1282  node index.js
+ 1283  npm run dev
+ 1284  npm uninstall cor
+ 1285  npm install cors
+ 1286  npm list cors
+ 1287  npm run dev
+ 1288  shutdown now
+ 1289  npm run dev
+ 1290  node index.js
+ 1291  npm run dev
+ 1292  shutdown now
+ 1293  npm run dev
+ 1294  sudo apt update
+ 1295  sudo apt upgrade
+ 1296  gpg --version
+ 1297  curl --version
+ 1298  sudo apt update
+ 1299  sudo apt install curl -y
+ 1300  curl --version
+ 1301  sudo apt-get install gnupg curl\
+ 1302  sudo apt-get install gnupg curl
+ 1303  sudo apt-get update
+ 1304  curl -fsSL https://www.mongodb.org/static/pgp/server-8.0.asc | sudo gpg -o /usr/share/keyrings/mongodb-server-8.0.gpg --dearmor
+ 1305  echo "deb [ arch=amd64,arm64 signed-by=/usr/share/keyrings/mongodb-server-8.0.gpg ] https://repo.mongodb.org/apt/ubuntu noble/mongodb-org/8.0 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-8.0.list
+ 1306  sudo apt-get update
+ 1307  sudo apt-get install -y mongodb-org
+ 1308  sudo systemctl start mongod
+ 1309  sudo systemctl enable mongod
+ 1310  mongosh
+ 1311  wget https://downloads.mongodb.com/compass/mongodb-compass_1.46.8_amd64.deb
+ 1312  sudo apt install ./mongodb-compass_1.46.8_amd64.deb
+ 1313  sudo dpkg -i mongodb-compass_1.46.8_amd64.deb
+ 1314  sudo apt-get install -f 
+ 1315  clear
+ 1316  shutdown now
+ 1317  mongosh
+ 1318  sudo systemctl start mongod
+ 1319  sudo systemctl enable mongod
+ 1320  mongosh
+ 1321  sudo systemctl stop mongod
+ 1322  mongosh
+ 1323  npm run dev
+ 1324  shutdown now
+ 1325  npm run dev
+ 1326  shutdown now
+ 1327  npm run dev
+ 1328  shutdown nowt
+ 1329  shutdown now
+ 1330  npm create vite@latest frontend
+ 1331  cd ..
+ 1332  cd
+ 1333  cd Documents/NodeJS_tutorial/
+ 1334  ls
+ 1335  cd auth-project/
+ 1336  npm create vite@latest auth-project-frontend
+ 1337  cd auth-project-frontend/
+ 1338  npm install
+ 1339  npm run dev
+ 1340  code .
+ 1341  npm run dev
+ 1342  npm list react
+ 1343  cd auth-project-backend/
+ 1344  code .
+ 1345  npm run dev
+ 1346  clear
+ 1347  npm install -D tailwindcss postcss autoprefixer
+ 1348  npx tailwindcss init -p
+ 1349  npx --package tailwindcss tailwindcss init -p
+ 1350  cd ~/Documents/NodeJS_tutorial/auth-project/auth-project-frontend
+ 1351  npx tailwindcss init -p
+ 1352  npx --package tailwindcss tailwindcss init -p
+ 1353  npm run dev
+ 1354  clear
+ 1355  npm run dev
+ 1356  cd ..
+ 1357  cd auth-project-frontend/
+ 1358  code .
+ 1359  cd ..
+ 1360  cd auth-project-backend/
+ 1361  npm run dev
+ 1362  cd ..
+ 1363  ls
+ 1364  cd auth-project-frontend/
+ 1365  npm run dev
+ 1366  cd 
+ 1367  cd Alpha-msh-MEP-V1/
+ 1368  code .
+ 1369  cd
+ 1370  cd Documents/NodeJS_tutorial/auth-project/auth-project-frontend/
+ 1371  npm install -D tailwindcss postcss autoprefixer
+ 1372  npx tailwindcss init -p
+ 1373  npm install -D tailwindcss postcss autoprefixer
+ 1374  npx tailwindcss init -p
+ 1375  npm list tailwindcss
+ 1376  npx tailwindcss -v
+ 1377  npm tailwindcss -v
+ 1378  npm install -D tailwindcss postcss autoprefixer
+ 1379  npx tailwindcss -v
+ 1380  ls node_modules/.bin | grep tailwind
+ 1381  cat package.json | grep tailwindcss
+ 1382  ./node_modules/.bin/tailwindcss -v
+ 1383  rm -rf node_modules package-lock.json
+ 1384  code .
+ 1385  npm install
+ 1386  npm install -D tailwindcss postcss autoprefixer
+ 1387  ls node_modules/.bin | grep tailwind
+ 1388  rm -rf node_modules package-lock.json
+ 1389  npm install
+ 1390  npm install -D tailwindcss@latest postcss autoprefixer
+ 1391  ls node_modules/.bin | grep tailwind
+ 1392  npx tailwindcss -v
+ 1393  npx tailwindcss init -p
+ 1394  npm run dev
+ 1395  touch /home/sophat-phorn/Documents/NodeJS_tutorial/auth-project/auth-project-frontend/src/app/globals.css
+ 1396  npm run dev
+ 1397  npx create-next-app@latest auth-protect-frontend
+ 1398  cd Documents/NodeJS_tutorial
+ 1399  ls
+ 1400  cd auth-project
+ 1401  ls
+ 1402  npx create-next-app@latest auth-project-frontend
+ 1403  cd
+ 1404  npx tailwindcss -v
+ 1405  cd Documents/NodeJS_tutorial/auth-project/
+ 1406  ls
+ 1407  npx create-next-app@latest auth-project-frontend
+ 1408  cd auth-project-frontend/
+ 1409  code .
+ 1410  cd ..
+ 1411  cd auth-project-frontend/
+ 1412  code .
+ 1413  clear
+ 1414  cd ..
+ 1415  cd auth-project-backend/
+ 1416  clear
+ 1417  npm run dev
+ 1418  git clone https://github.com/CheangSeyha/FileManagementSystem.git
+ 1419  cd Documents/
+ 1420  ls
+ 1421  cd FileManagementSystem/
+ 1422  code .
+ 1423  npm run dev
+ 1424  ls
+ 1425  cd client/
+ 1426  npm run dev
+ 1427  cd 
+ 1428  cd Documents/FileManagementSystem/client/
+ 1429  npm i
+ 1430  npm run dev
+ 1431  cd ..
+ 1432  mkdir admin
+ 1433  cd admin/
+ 1434  code .
+ 1435  cd ..
+ 1436  cd client/
+ 1437  code .
+ 1438  cd ..
+ 1439  cd admin/
+ 1440  npx create-next-app@latest
+ 1441  npm run dev
+ 1442  npm install react-icons --save
+ 1443  cd 
+ 1444  cd ..
+ 1445  npx create-next-app@latest
+ 1446  cd admin/
+ 1447  code .
+ 1448  cd ..
+ 1449  code .
+ 1450  cd client/
+ 1451  npm run dev
+ 1452  cd ..
+ 1453  ls
+ 1454  cd FileManagementSystem/
+ 1455  cd client/
+ 1456  npm run dev
+ 1457  shutdown now
+ 1458  ls
+ 1459  cd MES_MockExam_NextJS/
+ 1460  code .
+ 1461  npm run dev
+ 1462  git branch
+ 1463  git switch main 
+ 1464  git switch integration 
+ 1465  cd ..
+ 1466  npm run dev
+ 1467  cd client/
+ 1468  npm run dev
+ 1469  shutdown now
+ 1470  npm run dev
+ 1471  cd
+ 1472  ls
+ 1473  git clone https://github.com/loukdo/loukdo-app-backend.git
+ 1474  git clone https://github.com/loukdo/loukdo-app-seller-portal.git
+ 1475  node -v
+ 1476  npm i
+ 1477  cd Loukdo_project/
+ 1478  ls
+ 1479  cd loukdo-app-seller-portal/
+ 1480  npm i
+ 1481  npm run dev
+ 1482  code .
+ 1483  cd ..
+ 1484  git clone https://github.com/loukdo/loukdo-app-website.git
+ 1485  cd loukdo-app-website/
+ 1486  npm i
+ 1487  npm audit fix
+ 1488  code .
+ 1489  cd ..
+ 1490  cd
+ 1491  cd Documents/FileManagementSystem/
+ 1492  code .
+ 1493  cd
+ 1494  cd Loukdo_project/loukdo-app-seller-portal/
+ 1495  npm run dev
+ 1496  cp .env.example .env
+ 1497  npm run dev
+ 1498  cd
+ 1499  cd Documents/FileManagementSystem/
+ 1500  code .
+ 1501  npm run dev
+ 1502  cd client/
+ 1503  npm run dev
+ 1504  shutdown now
+ 1505  npm run dev
+ 1506  npm run build
+ 1507  shutdown now
+ 1508  cd ..
+ 1509  cd Year4
+ 1510  cd Testing
+ 1511  ls
+ 1512  cd SoftwareEngineering/Testing/
+ 1513  code .
+ 1514  shutdown now
+ 1515  cd ..
+ 1516  ls
+ 1517  mkdir Testing2
+ 1518  cd Testing2
+ 1519  touch testkey.java
+ 1520  code .
+ 1521  javac -cp .:jnativehook-2.2.2.jar TP01.java
+ 1522  javac -cp .:jnativehook-2.2.2.jar TP01_1.java
+ 1523  cd Documents/Year4/SoftwareEngineering/
+ 1524  mkdir Testing
+ 1525  cd Testing/
+ 1526  touch tp01.java
+ 1527  code .
+ 1528  dddddddd
+ 1529  java -cp "lib/jnativehook-2.2.2.jar:src" GlobalKeyListener
+ 1530  cd Documents/Year4/SoftwareEngineering/
+ 1531  mkdir testing
+ 1532  cd testing/
+ 1533  code .
+ 1534  knklkj
+ 1535  Restart
+ 1536  cd
+ 1537  java --v
+ 1538  java -version
+ 1539  java --version
+ 1540  NHVHJG
+ 1541  cd ..
+ 1542  ls
+ 1543  clear
+ 1544  ls
+ 1545  cd Thread/
+ 1546  code .
+ 1547  cd
+ 1548  cd Documents/Year4/SoftwareEngineering/
+ 1549  ls
+ 1550  sadwd
+ 1551  clear
+ 1552  sssss
+ 1553  fljlksjjjjjjjjjjjjj
+ 1554  dddd
+ 1555  dds
+ 1556  gghjghggjhghjghjggghjghj
+ 1557  ss
+ 1558  clear
+ 1559  hn
+ 1560  eeeeeeee
+ 1561  j
+ 1562  clear
+ 1563  clear
+ 1564  dc
+ 1565  cd
+ 1566  ls
+ 1567  cd Loukdo_project/ls
+ 1568  cd Loukdo_project/
+ 1569  ls
+ 1570  cd loukdo-app-seller-portal/
+ 1571  code .
+ 1572  npm run dev
+ 1573  git branch
+ 1574  git checkout -b sellPortal3&4
+ 1575  git checkout -b sellPortalFeature3and4
+ 1576  git branch
+ 1577  git switch sellPortal3
+ 1578  git branch -d sellPortal3
+ 1579  git branch
+ 1580  git switch sellPortal3and4
+ 1581  git branch
+ 1582  git checkout sellPortalFeature3and4 
+ 1583  git branch
+ 1584  git branch -d sellPortal3
+ 1585  git branch 
+ 1586  npm i
+ 1587  npm run dev
+ 1588  clear
+ 1589  npm run dev
+ 1590  clear
+ 1591  npm run dev
+ 1592  shutdown now
+ 1593  npm run dev
+ 1594  shutdown now
+ 1595  sudo apt update
+ 1596  sudo apt upgrade
+ 1597  sudo apt update
+ 1598  sudo apt --only-upgrade install google-chrome-stable
+ 1599  ssh gic-phorn-sophath@10.55.9.107
+ 1600  ssh gic-phorn-sophath@192.168.201.203
+ 1601  ssh gic-phorn-sophath@192.168.21.203
+ 1602  lsb_release -a
+ 1603  mkdir lab1
+ 1604  ssh gic-phorn-sophath@192.168.21.203
+ 1605  clear
+ 1606  ls
+ 1607  whoami
+ 1608  pwd
+ 1609  man
+ 1610  man -l
+ 1611  man -sl
+ 1612  man -ls
+ 1613  man --usage
+ 1614  man -M PATH
+ 1615  LS
+ 1616  ls
+ 1617  cd Documents/Year4
+ 1618  ls
+ 1619  mkdir OS
+ 1620  cd OS/
+ 1621  Mkdir lab1
+ 1622  mkdir lab1
+ 1623  cd lab1/
+ 1624  touch
+ 1625  cd
+ 1626  apt list -a python3*
+ 1627  clear
+ 1628  shutdown now
+ 1629  npm run dev
+ 1630  cd ..
+ 1631  shutdown npw
+ 1632  shutdown now
+ 1633  cd Documents/Year4/SoftwareEngineering/
+ 1634  code .
+ 1635  sudo apt update
+ 1636  sudo apt upgrade
+ 1637  try
+ 1638  23
+ 1639  shutdown now
+ 1640  cd
+ 1641  cd Loukdo_project/loukdo-app-seller-portal/
+ 1642  code .
+ 1643  npm run dev
+ 1644  shutdown now
+ 1645  ls r|c
+ 1646  ls -r|c
+ 1647  cd 
+ 1648  cd Documents/
+ 1649  ls -r|c
+ 1650  cd
+ 1651  cd -a
+ 1652  cd -P
+ 1653  cd -L
+ 1654  ssh gic-phorn-sophath@172.23.177.52
+ 1655  ssh gic-phorn-sophath@172.23.144.52
+ 1656  ping google.com
+ 1657  ssh gic-phorn-sophath@172.23.144.52
+ 1658  ping 172.23.144.52
+ 1659  ssh gic-phorn-sophath@172.23.144.52
+ 1660  pwd
+ 1661  mkdir etc
+ 1662  cd etc/
+ 1663  cd
+ 1664  clear
+ 1665  mkdir Lab2
+ 1666  cd Lab2/
+ 1667  pwd
+ 1668  cd ..
+ 1669  rm mkdir Lab2/
+ 1670  rm Lab2/
+ 1671  rm Lab2
+ 1672  rmkdir Lab2
+ 1673  rmdir Lab2
+ 1674  LS
+ 1675  ls
+ 1676  mkdir lab2
+ 1677  cd lab2
+ 1678  mkdir ex1
+ 1679  mkdir ex2
+ 1680  ls
+ 1681  cd ex1
+ 1682  mkdir etc
+ 1683  mkdir home
+ 1684  ls
+ 1685  cd etc/
+ 1686  mkdir network
+ 1687  mkdir systemd
+ 1688  mkdir user
+ 1689  cd systemd/
+ 1690  touch resolved.conf
+ 1691  ls
+ 1692  touch system.conf
+ 1693  touch user.conf
+ 1694  ls
+ 1695  mkdir user
+ 1696  ls
+ 1697  mkdir system
+ 1698  ls
+ 1699  cd ..
+ 1700  ls
+ 1701  cd network/
+ 1702  ls
+ 1703  touch interfaces
+ 1704  ls
+ 1705  cd ..
+ 1706  ls
+ 1707  rmdir user/
+ 1708  ls
+ 1709  mkdir udev
+ 1710  cd udev/
+ 1711  mkdir rules.d
+ 1712  ls
+ 1713  touch udev.conf
+ 1714  ls
+ 1715  cd ..
+ 1716  ls
+ 1717  cd ..
+ 1718  ls
+ 1719  touch result1.txt
+ 1720  ls
+ 1721  touch ex1_command_history.txt
+ 1722  ls
+ 1723  cd ..
+ 1724  ls
+ 1725  cd ex1
+ 1726  ls
+ 1727  cd home/
+ 1728  mkdir lost+found
+ 1729  mkdir user
+ 1730  cd user/
+ 1731  mkdir Documents
+ 1732  cd ../..
+ 1733  ls
+ 1734  cd ..
+ 1735  ls
+ 1736  cd ex2
+ 1737  touch ex2_command_history.txt
+ 1738  ls
+ 1739  cd ..
+ 1740  ls -a
+ 1741  cd 
+ 1742  sudo apt install tree
+ 1743  tree
+ 1744  cd lab2
+ 1745  tree
+ 1746  cd 
+ 1747  ssh gic-phorn-sophath@192.168.22.122
+ 1748  ping 192.168.22.122
+ 1749  ssh gic-phorn-sophath@192.168.22.122
+ 1750  ping 192.168.22.122
+ 1751  clear
+ 1752  ping 192.168.22.122
+ 1753  tree
+ 1754  cd lab2
+ 1755  tree
+ 1756  cd
+ 1757  ping google.com
+ 1758  cd 
+ 1759  cd ~
+ 1760  cd Documents/Year4/SoftwareEngineering/
+ 1761  ls
+ 1762  cd Thread/
+ 1763  code .
+ 1764  sssassssss
+ 1765  shutdown now
+ 1766  cd ..
+ 1767  ls
+ 1768  mkdir Inter_Progra
+ 1769  cd Inter_Progra/
+ 1770  mkdir test
+ 1771  cd test/
+ 1772  touch test01.html
+ 1773  code .
+ 1774  git clone https://github.com/thavorac/gic2025.git
+ 1775  git branch
+ 1776  npm i
+ 1777  cd gic2025/
+ 1778  npm i
+ 1779  npm install
+ 1780  git branch 
+ 1781  cd ..
+ 1782  cd
+ 1783  cd Documents/Year4/Inter_Progra/test/
+ 1784  git clone https://github.com/thavorac/gic2025.git
+ 1785  cd gic2025/
+ 1786  code .
+ 1787  npm install
+ 1788  git branch
+ 1789  cd
+ 1790  cd Documents/Year4/Inter_Progra/test/
+ 1791  cd gic2025/
+ 1792  git pull
+ 1793  git branch 
+ 1794  git checkout calculator 
+ 1795  npm i
+ 1796  npm install
+ 1797  vue -v
+ 1798  git pull
+ 1799  npm install
+ 1800  rm -rf node_modules
+ 1801  rm package-lock.json
+ 1802  npm cache clean --force
+ 1803  npm install
+ 1804  clear
+ 1805  npm i
+ 1806  npm run dev
+ 1807  cd ..
+ 1808  cd 
+ 1809  cd Documents/Year4/Inter_Progra/test/
+ 1810  git clone https://github.com/thavorac/gic2025.git
+ 1811  code .
+ 1812  git clone https://github.com/thavorac/gic2025.git
+ 1813  cd gic2025/
+ 1814  code .
+ 1815  git pull
+ 1816  git branch 
+ 1817  git switch calculator 
+ 1818  npm i
+ 1819  npm run dev
+ 1820  shutdown now
+ 1821  cd
+ 1822  cd Loukdo_project/
+ 1823  ls
+ 1824  cd loukdo-app-seller-portal/
+ 1825  code .
+ 1826  npm run dev
+ 1827  cd 
+ 1828  cd Documents/
+ 1829  ls
+ 1830  cd telegramBot/
+ 1831  ls
+ 1832  code .
+ 1833  mysql -u root -p < /home/sophat-phorn/Downloads/classicmodels.sql
+ 1834  mysql -u root -p classicmodel > backup/classic2.sql
+ 1835  mkdir backup
+ 1836  ls
+ 1837  mysql -u root -p classicmodel > backup/classic2.sql
+ 1838  mysql -u root -p classicmodels > backup/classic2.sql
+ 1839  code source /home/sophat-phorn/.local/share/virtualenvs/myprojectDjango-Qyj0JeeZ/bin/activate
+ 1840  mysql -v
+ 1841  mysql --version
+ 1842  mysql -u root -p
+ 1843  sudo systemctl status mysql
+ 1844  sudo systemctl stop mysql
+ 1845  sudo systemctl status mysql
+ 1846  clear
+ 1847  shutdown now
+ 1848  cd 
+ 1849  cd Documents/Year4/Inter_Progra/
+ 1850  ls
+ 1851  mkdir TP01
+ 1852  cd TP01/
+ 1853  code .
+ 1854  npm install
+ 1855  npm run format
+ 1856  npm run dev
+ 1857  npm install -D tailwindcss postcss autoprefixer
+ 1858  npx tailwindcss init -p
+ 1859  pwd
+ 1860  npx tailwindcss -v
+ 1861  node -v
+ 1862  npm -v
+ 1863  rm -rf node_modules package-lock.json
+ 1864  npm cache clean --force
+ 1865  npm install -D tailwindcss postcss autoprefixer
+ 1866  npx tailwindcss -v
+ 1867  node -v
+ 1868  npm create vue@latest
+ 1869  cd E-Commerce/
+ 1870  npm install
+ 1871  npm run format 
+ 1872  npm run dev
+ 1873  git init
+ 1874  git add .
+ 1875  git commit -m "finist ex3"
+ 1876  git remote add origin https://github.com/PhornSophat/E-Commerce-2025.git
+ 1877  git checkout -b TP01
+ 1878  git push origin TP01 
+ 1879  clear
+ 1880  cd 
+ 1881  cd Documents/Year4/Inter_Progra/
+ 1882  ls
+ 1883  cd test/
+ 1884  npm create vue@latest
+ 1885  cd e-commerce2/
+ 1886  code .
+ 1887  shutdown now
+ 1888  code .
+ 1889  npm install tailwindcss @tailwindcss/vite
+ 1890  npm run dev
+ 1891  cd ../../SoftwareEngineering/
+ 1892  cd ../..
+ 1893  cd ..
+ 1894  cd SoftwareEngineering/
+ 1895  ls
+ 1896  cd Thread/
+ 1897  code .
+ 1898  clear
+ 1899  clear
+ 1900  7
+ 1901  shutdown now
+ 1902  sudo systemctl status mysql
+ 1903  sudo mysql
+ 1904  mysql -u root -p
+ 1905  sudo apt update
+ 1906  sudo apt upgrade
+ 1907  sudo apt update
+ 1908  sudo apt autoremove
+ 1909  sudo apt clean  
+ 1910  sudo apt update && sudo apt upgrade
+ 1911  shutdown now
+ 1912  sudo apt update
+ 1913  sudo apt upgrade
+ 1914  ssh gic-phorn-sophath@192.168.21.87
+ 1915  ls
+ 1916  cd lab2/
+ 1917  tree
+ 1918  scp -r lab2/ gic-phorn-sophath@192.168.21.87:/home/sophat-phorn
+ 1919  cd
+ 1920  scp -r lab2/ gic-phorn-sophath@192.168.21.87:/home/sophat-phorn
+ 1921  scp -r lab2/ gic-phorn-sophath@192.168.21.87:/home/gic-phorn-sophath
+ 1922  ssh gic-phorn-sophath@192.168.21.87
+ 1923  cd ..
+ 1924  cd Inter_Progra/
+ 1925  code .
+ 1926  cd TP01/
+ 1927  git branch
+ 1928  code .
+ 1929  git branch 
+ 1930  pwd
+ 1931  cd E-Commerce/
+ 1932  git branch 
+ 1933  npm run dev
+ 1934  npm install -D tailwindcss postcss autoprefixer
+ 1935  npx tailwindcss init -p
+ 1936  cd ..
+ 1937  ls
+ 1938  cd ..
+ 1939  ls
+ 1940  cd test/
+ 1941  code .
+ 1942  cd ..
+ 1943  ls
+ 1944  cd TP01/
+ 1945  ls
+ 1946  cd E-Commerce/
+ 1947  code .
+ 1948  git branch 
+ 1949  npm install -D tailwindcss postcss autoprefixer
+ 1950  npx tailwindcss init -p
+ 1951  npm install tailwindcss @tailwindcss/vite
+ 1952  npm run dev
+ 1953  npm install -D tailwindcss postcss autoprefixer
+ 1954  npx tailwindcss init -p
+ 1955  npm run dev
+ 1956  cd ..
+ 1957  cd Int
+ 1958  ls
+ 1959  cd TP01/
+ 1960  ls
+ 1961  cd E-Commerce/
+ 1962  code .
+ 1963  cd ..
+ 1964  cd
+ 1965  cd Documents/Year4/Inter_Progra/TP01/
+ 1966  code .
+ 1967  git clone https://github.com/PhornSophat/E-Commerce-2025.git
+ 1968  git branch 
+ 1969  git clone https://github.com/PhornSophat/E-Commerce-2025.git
+ 1970  git checkout TP01
+ 1971  ls
+ 1972  cd E-Commerce-2025/
+ 1973  git branch 
+ 1974  git checkout main
+ 1975  code .
+ 1976  npm install
+ 1977  npm run dev
+ 1978  npm install tailwindcss @tailwindcss/vite
+ 1979  npm run dev
+ 1980  git branch 
+ 1981  git add .
+ 1982  git commit -m "TP01: done with exercise4"
+ 1983  git push origin TP01 
+ 1984  git checkout -b TP02
+ 1985  npm run dev
+ 1986  git add .
+ 1987  git commit -m "first commit"
+ 1988  git push origin TP02
+ 1989  git push 
+ 1990  git push --set-upstream origin TP02
+ 1991  git switch TP01
+ 1992  git branch 
+ 1993  git switch TP02
+ 1994  git push
+ 1995  git switch TP01
+ 1996  git branch 
+ 1997  npm run dev
+ 1998  git switch TP02
+ 1999  git branch 
+ 2000  shutdown now
+ 2001  pwd
+ 2002  cd Documents/
+ 2003  mkdir lab3
+ 2004  cd lab3/
+ 2005  mkdir CopyingFolder
+ 2006  mkdir Documents
+ 2007  touch copied.txt
+ 2008  cp copied.txt Documents/
+ 2009  cd Documents/
+ 2010  ls
+ 2011  cd ..
+ 2012  ls
+ 2013  cd Documents/
+ 2014  touch {one,two,three,four,five}.txt
+ 2015  ls
+ 2016  cd ..
+ 2017  cp -r Documents CopyingFolder/
+ 2018  cd CopyingFolder/
+ 2019  ls
+ 2020  rm -r Documents/
+ 2021  ls
+ 2022  cd ..
+ 2023  cd Documents/
+ 2024  cp *.txt CopyingFolder/
+ 2025  cd ..
+ 2026  cd Documents/
+ 2027  cp *.txt /CopyingFolder/
+ 2028  cp *.txt ../CopyingFolder/
+ 2029  cd ..
+ 2030  cd CopyingFolder/
+ 2031  ls
+ 2032  cd 
+ 2033  cd Documents/lab3/
+ 2034  mkdir Desktop && cp -r CopyingFolder Desktop/
+ 2035  cd Desktop/
+ 2036  ls
+ 2037  cd ..
+ 2038  cd Documents/
+ 2039  touch {one,two,three,four,five}_document.txt
+ 2040  ls
+ 2041  cat one_document.txt 
+ 2042  ls
+ 2043  cat > one_document.txt 
+ 2044  nano one_document.txt 
+ 2045  ​​cat > two_document.txt 
+ 2046  ls
+ 2047  cat >two_document.txt 
+ 2048  cat >three_document.txt 
+ 2049  nano three_document.txt 
+ 2050  cat >four_document.txt 
+ 2051  cat >five_document.txt 
+ 2052  mv one_document.txt document_un.txt
+ 2053  mv two_document.txt document_deux.txt
+ 2054  mv three_document.txt document_trois.txt
+ 2055  mv four_document.txt document_quatre.txt
+ 2056  mv five_document.txt document_cinque.txt
+ 2057  ls
+ 2058  nano document_un.txt 
+ 2059  clear
+ 2060  cd ..
+ 2061  mkdir MoveFolder
+ 2062  cd Documents/
+ 2063  ls
+ 2064  cp document_*.txt ../MoveFolder/
+ 2065  cd ../MoveFolder/
+ 2066  ls
+ 2067  cd ..
+ 2068  ls
+ 2069  cd Desktop/ && mkdir FrenchFolder
+ 2070  ls
+ 2071  cd ..
+ 2072  cd MoveFolder/
+ 2073  ls
+ 2074  cp document_*.txt ../Desktop/FrenchFolder/
+ 2075  cd ..
+ 2076  tree
+ 2077  tree > tree_structure_before_remove.txt
+ 2078  ls
+ 2079  nano tree_structure_before_remove.txt 
+ 2080  cd
+ 2081  rmdir Documents/lab3/MoveFolder
+ 2082  rmdir -r  Documents/lab3/MoveFolder
+ 2083  rmdir -r Documents/lab3/MoveFolder
+ 2084  rm -r Documents/lab3/MoveFolder
+ 2085  cd Documents/lab3/
+ 2086  cd Documents/
+ 2087  mkdir EmptyFolder && touch deletefile.txt && cd EmptyFolder
+ 2088  mkdir DeleteFolder
+ 2089  ls
+ 2090  cd ..
+ 2091  ls
+ 2092  cd EmptyFolder/
+ 2093  ls
+ 2094  rm -d DeleteFolder/
+ 2095  cd ..
+ 2096  rm -d EmptyFolder/
+ 2097  cd ..
+ 2098  cd Desktop/
+ 2099  ls
+ 2100  cd FrenchFolder/
+ 2101  ls
+ 2102  rm document_*.txt
+ 2103  ls
+ 2104  cd ../../
+ 2105  tree
+ 2106  tree > tree_structure_after_remove.txt 
+ 2107  history > wildcardex1_command_history.txt

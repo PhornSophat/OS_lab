@@ -1,0 +1,7 @@
+total 24
+drwxrwxr-x 3 gic-phorn-sophath gic-phorn-sophath 4096 Oct 30 14:05 Desktop
+drwxrwxr-x 2 gic-phorn-sophath gic-phorn-sophath 4096 Oct 30 13:28 folder1
+drwxrwxr-x 2 gic-phorn-sophath gic-phorn-sophath 4096 Oct 30 13:41 folder2
+drwxrwxr-x 4 gic-phorn-sophath gic-phorn-sophath 4096 Oct 30 14:48 lab2
+drwxrwxr-x 9 gic-phorn-sophath gic-phorn-sophath 4096 Nov 20 14:27 lab3
+drwxrwxr-x 2 gic-phorn-sophath gic-phorn-sophath 4096 Nov 20 14:37 lab4

@@ -1,0 +1,50 @@
+   76  rm five}_document.txt 
+   77  ls
+   78  rm *,
+   79  ls
+   80  touch {one,two,three,four,five}_document.txt
+   81  ls
+   82  for i in one two three four five; do echo $i > one_document.txt; 1; 2; 3; 4; 5; q
+   83  cat one_document.txt 
+   84  nano one_document.txt 
+   85  ls
+   86  cat one_document.txt
+   87  for i in one two three four five; do echo $i > one_document.txt; done
+   88  cat one_document.txt 
+   89  ls
+   90  cd lab3/
+   91  tree
+   92  cd Documents/
+   93  cat one_document.txt 
+   94  for i in 1 2 3 4 5; do echo $i > one_document.txt; done
+   95  cat one_document.txt 
+   96  for i in 1 2 3 4 5; do echo $i > one_document.txt; done;
+   97  cat one_document.txt 
+   98  for i in 1 2 3 4 5; do echo $i >> one_document.txt; done;
+   99  cat one_document.txt 
+  100  nano one_document.txt 
+  101  q
+  102  ls
+  103  cd lab2
+  104  ls
+  105  cd lab
+  106  cd lab4
+  107  ls
+  108  history
+  109  ls
+  110  cat contents.txt 
+  111  cat newfile.txt 
+  112  ls -l ~ > ~/lab4/contents.txt 
+  113  cat contents.txt 
+  114  sort contents.txt >> contents-sorted.txt
+  115  cat contents-sorted.txt 
+  116  tail /etc/passwd > ~/lab4/Documents/newfile.txt
+  117  ls
+  118  mkdir Documents
+  119  ls
+  120  tail /etc/passwd > ~/lab4/Documents/newfile.txt
+  121  wc -w < contents.txt >> ~/lab4/filed2.txt
+  122  head -n 5 /etc/passwd | sort -r
+  123  tail -n 9 contents.txt | wc -m
+  124  find /usr/share/ -name test
+  125  history | tail -n 50 > ~/lab4/commands_history.txt
